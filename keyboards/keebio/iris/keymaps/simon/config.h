@@ -19,5 +19,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 // #define USE_I2C
 #define EE_HANDS
+#define PERMISSIVE_HOLD
 /* #define ENCODERS_PAD_A {F5} */
 /* #define ENCODERS_PAD_B {F6} */
